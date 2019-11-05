@@ -1,3 +1,3 @@
 # hello-world
 This is test repository.
-I'm making a change to this file b/c I mistakenly committed changes to the last file directly to the Master.
+I'm a 52 yr old guy who is going to learn enough about full stack development to build a prototype.
